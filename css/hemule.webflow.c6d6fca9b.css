@@ -2648,7 +2648,7 @@ figcaption {
 .circle-hero-b {
   width: 370px;
   height: 370px;
-  background-image: url("../images/657f76f42e875b447a447e81_Panda%20Bamboo%20Illustrated%20Green%20Black%20and%20White%20Birthday%20Invitation.png"),
+  background-image: url("../genesislogogreen.jpg"),
     linear-gradient(54deg, var(--circle-a2), var(--circle-b2));
   mix-blend-mode: multiply;
   background-position: 50%, 0 0;
@@ -2666,7 +2666,7 @@ figcaption {
 .circle-hero-a {
   width: 290px;
   height: 290px;
-  background-image: url("../images/657f76f42e875b447a447e81_Panda%20Bamboo%20Illustrated%20Green%20Black%20and%20White%20Birthday%20Invitation.png"),
+  background-image: url("../genesislogogreen.jpg"),
     linear-gradient(72deg, var(--circle-a1), var(--circle-a2));
   mix-blend-mode: multiply;
   background-position: 50%, 0 0;
@@ -2684,7 +2684,7 @@ figcaption {
   -webkit-backdrop-filter: blur(50px);
   backdrop-filter: blur(50px);
   background-color: rgba(251, 250, 250, 0.05);
-  background-image: url("../images/657f76f42e875b447a447e81_Panda%20Bamboo%20Illustrated%20Green%20Black%20and%20White%20Birthday%20Invitation.png");
+  background-image: url("../genesislogogreen.jpg");
   background-position: 0 0;
   background-size: cover;
   border: 1px solid rgba(251, 250, 250, 0.25);
