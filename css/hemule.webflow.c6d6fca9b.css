@@ -2223,14 +2223,14 @@ textarea.w-select {
   --accent-c2: #00c2ff;
   --accent-c1: #4190ff;
   --white: #0d0d0d;
-  --circle-a1: #D25CF2;
-  --circle-b2: #D25CF2;
+  --circle-a1: #5cf287;
+  --circle-b2: #5cf287;
   --circle-a2: #5ce1e6;
-  --circle-d1: #7e70df;
+  --circle-d1: #5cf287;
   --circle-d2: #4bffbe;
-  --circle-c1: #3a65fe;
+  --circle-c1: #5cf287;
   --circle-c2: #4bd4ff;
-  --accent-b1: #D25CF2;
+  --accent-b1: #5cf287;
   --accent-b2: #ffa800;
   --accent-d1: #29f3b2;
   --accent-d2: #00d293;
@@ -2762,7 +2762,7 @@ figcaption {
 }
 
 .focus-large {
-  background-image: linear-gradient(137deg, #D25CF2, #7e70df);
+  background-image: linear-gradient(137deg, #5cf287, #00c2ff);
   border-radius: 16px;
   flex-direction: column;
   align-items: center;
